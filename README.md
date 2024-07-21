@@ -9,3 +9,4 @@
   <li>Pyperclip: 1.8.2</li>
   <li>Openai: 1.35.14</li>
 </ul>
+<p><strong>Atenção:</strong> Necessário uso do chromedriver.exe no diretório raiz da aplicação</p>
